@@ -23,6 +23,7 @@ This is a simple C++ calculator application created using ImGui. The primary goa
 * Optionally, explore or modify the source code in calculator.cpp.
 * Run the Calculator.exe file.
 
+![My calculator](ApplicationSS.png)
 
 ## Requirements
 You will need below to make changes to your own copies and build them:<br>
